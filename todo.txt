@@ -1,0 +1,5 @@
+* Move forum tree to ./forum subdirectory
+* Build temporary testing index.php that redirects to ./forum/index.php
+* Begin work on new index page
+* Look into plugin and theme development for MyBB and PHPBB and decide which is better
+* Set up coding environments to allow easier access to project files
